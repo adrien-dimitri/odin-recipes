@@ -1,0 +1,14 @@
+* {
+    text-align: center;
+}
+
+.h1main{
+    background-color: lightskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+.listmain{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
